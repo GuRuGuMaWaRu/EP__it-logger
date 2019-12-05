@@ -27,6 +27,13 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "Changed the connector",
+      "attention": false,
+      "tech": "Jogn Doe",
+      "date": "2019-12-05T17:39:32.812Z",
+      "id": 5
     }
   ],
   "techs": [
