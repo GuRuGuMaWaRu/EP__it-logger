@@ -22,18 +22,18 @@
       "id": 3
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
-    },
-    {
       "message": "Changed the connector",
       "attention": false,
       "tech": "Jogn Doe",
       "date": "2019-12-05T17:39:32.812Z",
       "id": 5
+    },
+    {
+      "id": 6,
+      "message": "1234",
+      "attention": false,
+      "tech": "Jogn Doe",
+      "date": "2019-12-06T12:53:03.192Z"
     }
   ],
   "techs": [
